@@ -24,7 +24,7 @@ Clone this repository:
 
 ```bash
 git clone https://github.com/Nutzernam3/RentACar.git
-cd qt6-app
+cd RentACar
 ```
 Change to the project directory and open the ```RentACar.pro```. 
 
